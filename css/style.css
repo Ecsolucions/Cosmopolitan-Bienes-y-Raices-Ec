@@ -789,7 +789,7 @@ i.close1 {
 	box-shadow: 0 0 1px #000;
 }
 
-.view a.info:hover {
+.view a.info: hover {
 	background: #fff;
 }
 /* NINTH EXAMPLE*/
